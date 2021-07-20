@@ -1,6 +1,6 @@
 # NotesApp
 
-* This application mainly focuses on creation of notes and saving those notes for further usage.
+* This application mainly focuses on creating, editing and deleting notes and saving those notes for further usage.
 
 __UIControls used while creating this project are:__
 * UITableView

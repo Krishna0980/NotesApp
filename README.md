@@ -1,14 +1,17 @@
 # NotesApp
 
 * This application mainly focuses on creation of notes and saving those notes for further usage.
+
 __UIControls used while creating this project are:__
 * UITableView
 * UIElements (such as, UITextfield, UILable, UIButton)
 * UIViewController
+
 __Notes Includes:__
 * Create a note with clicking on + Icon
 * Edit a note by making changes into it and saving it.
 * Delete a note if not required.
+
  __Login Page__
  </p>
  <img width="182" alt="Image1" src="https://user-images.githubusercontent.com/75938203/126282711-dc82cbd9-69a3-4350-9c85-2bdbf1e0993d.png">
@@ -32,6 +35,7 @@ __Edit Notes__
  <p>
  <img width="186" alt="Image9" src="https://user-images.githubusercontent.com/75938203/126283164-db43a342-92a2-4f57-9923-92ad3afb4212.png">
  </p>
+ 
  __Delete Notes__
  <p>
  <img width="182" alt="Image5" src="https://user-images.githubusercontent.com/75938203/126283305-ed535709-3dde-4553-9e8d-c59c11909ed9.png">
